@@ -56,4 +56,4 @@ You're talking to an AI agent, not a person reading in real time. The system can
 
 ## How we operate (transparency) [Observed]
 
-This support flow is itself an open-source product. The architecture uses Redis for the unified intake queue and self-hosted Chatwoot for conversation records where deployed. The deeper design spec for this repository is at `/path/to/repo`.
+This support flow is itself an open-source product. The architecture uses Redis for the unified intake queue and self-hosted Chatwoot for conversation records where deployed.
